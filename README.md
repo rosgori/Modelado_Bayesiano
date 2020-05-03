@@ -27,7 +27,7 @@ Este enfoque es posible por dos razones:
 * Una es ontológica: la estadística es una forma de modelado unificada bajo el marco de la teoría de probabilidad.
 * La otra es técnica: Software moderno como PyMC3 permite a los practicantes definir resolver modelos de forma sencilla.
 
-## ¿A quienes está dirigido?
+## ¿A quiénes está dirigido?
 
 Este es un curso introductorio para personas sin conocimiento previo de estadística o ciencia de datos. Se asume familiaridad con Python y librerías de Python usadas en análisis de datos como Numpy, Matplotlib, Pandas, etc.
 
